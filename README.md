@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mn_google" target="blank"><img src="https://img.shields.io/twitter/follow/mn_google?logo=twitter&style=for-the-badge" alt="mn_google" /></a> </p>
 
-- 🔭 I’m currently working on [AI Infinity](https://ai-infinity.vercel.app)
+- 🔭 I’m currently working on [GPTs Nest](https://gptsnest.vercel.app)
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://meetpateltech.github.io/](https://meetpateltech.github.io/)
 
-- 💬 Ask me about **Analytics,Marketing**
+- 💬 Ask me about **Web Dev,Analytics,Marketing**
 
 - 📫 How to reach me **meetpatel.mn@gmail.com**
 
