@@ -99,6 +99,6 @@
 
 ## Github Stats  
 ![Profile views counter](https://komarev.com/ghpvc/?username=meetpateltech&&style=flat-square)  
-  
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=meetpateltech&rank_icon=github" align="left" />
+<br />
