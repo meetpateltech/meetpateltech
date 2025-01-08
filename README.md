@@ -4,7 +4,7 @@
 ### *<div align="center">A passionate full-stack developer</div>*  
   
 
-- 🔭 I’m currently working on [GPTs Nest](https://gptsnest.vercel.app/) | [AI Infinity](https://github.com/meetpateltech/AI-Infinity)  
+- 🔭 I’m currently working on [Convelyze](https://convelyze.pages.dev/) 
   
 
 - 🌱 I’m currently learning Web Development 🌐 & DevOps ☁️  
