@@ -1,19 +1,18 @@
 # **<div align="center">Hi 👋, I'm Meet Patel</div>**  
   
 
-### *<div align="center">A passionate full-stack developer</div>*  
+### *<div align="center">Developer. Builder. Tinkerer.</div>*  
   
 
-- 🔭 I’m currently working on [Convelyze](https://convelyze.pages.dev/) 
+- 🔭 i’m currently working on [LLM Timeline](https://llmtimeline.org/) 
   
 
-- 🌱 I’m currently learning Web Development 🌐 & DevOps ☁️  
+- 🌱 building things, breaking things, learning along the way 
   
 
-- ❓ Ask me about anything related to Web Dev and related technologies  
+- ⚡ the best way to learn something is to just build it, break it, and build it again
   
 
-- ⚡ Fun fact: My passion for tech is like recursion - it just keeps growing and never ends! 🔄  
   
 
 <br/>  
@@ -44,6 +43,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://svgl.app/library/typescript.svg" alt="TypeScript" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://svgl.app/library/nodejs.svg" alt="Node.js" height="50" /></a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://svgl.app/library/expressjs_dark.svg" alt="Express.js" height="50" /></a>
+<a href="https://hono.dev/" target="_blank"><img style="margin: 10px" src="https://svgl.app/library/hono.svg" alt="Hono" height="50" /></a>
 </div>
 
 ### DevOps
@@ -65,10 +65,12 @@
 <a href="https://github.com/meetpateltech" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<br/>
 <a href="https://twitter.com/meetpateltech" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/meet-patel-6716b5242" target="_blank">
+<br/>
+<a href="https://linkedin.com/in/meetpateltech" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
